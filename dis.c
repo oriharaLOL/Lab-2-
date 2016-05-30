@@ -8,5 +8,6 @@ if(D>=0)
 {
 x1= (-b + sqrt(D))/(2*a);
 x2= (-b - sqrt(D))/(2*a);
-printf("x1 = %g , x2 = %g",x1,x2);}
+printf("x1 = %g , x2 = %g",x1,x2);
+}
 }
